@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Definition Hub</string>
+    <string name="search">Search</string>
+    <string name="search_word">Search Word</string>
+    <string name="word">Word</string>
+    <string name="definations">Definations :</string>
+    <string name="noun">noun</string>
+    <string name="definitions" />
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+</resources>
